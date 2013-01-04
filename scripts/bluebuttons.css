@@ -1,0 +1,30 @@
+/* CSS for Vertical button-based selector in blue colos */
+
+.head {
+	text-align: center;
+	font-family: Verdana;
+	font-size: 18pt;
+	background: #abc;
+	font-weight: 700;
+	padding: 0px;
+	border: solid white 2px
+}
+
+body {
+	background: #000;
+	color: #FFF;
+	width: 100%;
+}
+
+button {
+	padding-left: 20%;
+	text-align: left;
+	height: 75px;
+	width: 90%
+}
+
+img {
+	width: 50px;
+	height: 50px;
+	vertical-align: middle
+}
